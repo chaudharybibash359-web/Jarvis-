@@ -1,0 +1,7 @@
+{
+  "name": "JARVIS",
+  "description": "Futuristic AI Voice Assistant with voice interaction, customizable personality, smart device tools, and memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
